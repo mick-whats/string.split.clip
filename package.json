@@ -1,0 +1,30 @@
+{
+  "name": "string.split.clip",
+  "version": "0.0.1",
+  "description": "Store clipboard string to array and store it on clipboard",
+  "keywords": [
+    "string",
+    "split",
+    "clipboard",
+    "clip",
+    "copy"
+  ],
+  "bin": {
+    "string.split.clip": "./cli.js"
+  },
+  "files": [
+    "cli.js"
+  ],
+  "dependencies": {
+    "clipboardy": "^1.2.3"
+  },
+  "main": "cli.js",
+  "homepage": "https://github.com/mick-whats/string.split.clip",
+  "bugs": "https://github.com/mick-whats/string.split.clip/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mick-whats/string.split.clip.git"
+  },
+  "license": "MIT",
+  "author": "mick-whats"
+}
