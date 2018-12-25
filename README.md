@@ -2,6 +2,10 @@
 
 Store clipboard string to array and store it on clipboard
 
+```
+npm install -g string.split.clip
+```
+
 ## cli
 
 ### step 1
