@@ -1,6 +1,6 @@
 {
   "name": "string.split.clip",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Store clipboard string to array and store it on clipboard",
   "keywords": [
     "string",
